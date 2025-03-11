@@ -1,0 +1,184 @@
+Bank
+[ 10200 ] Bank Accounts
+[ 10202 ] MCC Al-Rajhi Account
+[ 10201 ] MCC Saudi National Bank
+[ 10221 ] STC PAY Merchant
+Cash
+[ 10100 ] Cash Accounts
+     • [ 10101 ] Cash in Hand
+     • [ 10212 ] PC Abdul Waheed
+     • [ 10205 ] PC Abdullah Bakar
+     • [ 10203 ] PC Akram Ali
+     • [ 10213 ] PC Amin Mughal
+     • [ 10215 ] PC Amjad Saeed
+     • [ 10217 ] PC Getachew Wakuma
+     • [ 10219 ] PC Haseeb Jameel
+     • [ 10214 ] PC Irshad Masih
+     • [ 10218 ] PC Mattar Al Khaldi
+     • [ 10210 ] PC Mr. Abdul Wahab
+     • [ 10208 ] PC Mr. Amrit Bahadur
+     • [ 10206 ] PC Mr. Jamil Ahmad
+     • [ 10211 ] PC Mr. Shahbaz Ali
+     • [ 10207 ] PC Mr. Zafar Abbas
+     • [ 10204 ] PC Mumtaz Hussain Akbar
+     • [ 10220 ] PC Shakeel Anwar
+     • [ 10216 ] PC Zaheer Abbas
+     • [ 10209 ] PC. Mr. George Varghese
+Petty Cash
+Undeposited Funds
+Other Current Asset
+Advance Tax
+[ 13500 ] Advance to Supplier
+[ 13400 ] Deffered Interest
+     • [ 13404 ] Allowance for Doubtful Debts
+     • [ 13401 ] Deffered Inter Lease Vehicles
+     • [ 13403 ] Other Deposit
+     • [ 13402 ] Security Deposit for Room Rent
+Employee Advance
+     • [ 11216 ] Adance to Abdul Waheed
+     • [ 11218 ] Adance to GulZamin Khan Safety
+     • [ 11217 ] Adance to Malik Asif WPR
+     • [ 11223 ] Advance to Abdul Moeen BBS
+     • [ 11209 ] Advance to Abdul Wahab
+     • [ 11201 ] Advance to Akram Ali Ashraf
+     • [ 11220 ] Advance to Akram Khalid
+     • [ 11206 ] Advance to Amin Mughal
+     • [ 11219 ] Advance to Amjad Saeed
+     • [ 11227 ] Advance to Ashraf Khan Driver
+     • [ 11222 ] Advance to Fatih Turkey CM
+     • [ 11202 ] Advance to George Varghese
+     • [ 11207 ] Advance to Geta Chew Wakuma
+     • [ 11208 ] Advance to Ikram Driver
+     • [ 11228 ] Advance to Irshad Masih
+     • [ 11214 ] Advance to M. Asif
+     • [ 11203 ] Advance to MD. Arif
+     • [ 11204 ] Advance to Mr. Mattar Al-Khaldi
+     • [ 11211 ] Advance to Muhammad Ahmar Ali
+     • [ 11210 ] Advance to Muhammad Salman
+     • [ 11225 ] Advance to Munzir Bakhit
+     • [ 11215 ] Advance to Nahar Khan
+     • [ 11212 ] Advance to Shahbaz Ali
+     • [ 11229 ] Advance to Shahid Nadeem
+     • [ 11213 ] Advance to Shakeel Anwar
+     • [ 11205 ] Advance to Turkey Bin Bilal
+     • [ 11226 ] Advance to Zafar Abbas
+     • [ 11224 ] Advance to Zaheer Abbas Secert
+     • [ 11230 ] Advance to Zaheer Islam
+     • [ 11221 ] Advance to Zehal Ul Islam (Safety Officer)
+[ 13300 ] Mowarad Basharia Invoices
+     • [ 13301 ] Mowarad Basharia Inv. Fahad
+Prepaid Expenses
+[ 13000 ] Prepayments
+     • [ 13200 ] Factory Abdulla BakerAffiliate
+     • [ 13100 ] Prepaid Insurance
+Sales to Customers (Cash)
+VAT Carry Forward
+Fixed Asset
+[ 14000 ] Fixed Assets
+     • [ 14900 ] Accumulated Depreciation
+         • [ 14908 ] Accum. Deprc Lease Equipments
+         • [ 14907 ] Accum. Deprc Lease Vehicles
+         • [ 14905 ] Accum. Depreciation-Buildings
+         • [ 14904 ] Accum. Depreciation-Camp Equip
+         • [ 14901 ] Accum. Depreciation-Furniture
+         • [ 14903 ] Accum. Depreciation-Machines
+         • [ 14902 ] Accum. Depreciation-Office Equipment
+         • [ 14906 ] Accum. Depreciation-Vehicles
+     • [ 14801 ] Al Hamra House Building
+     • [ 14802 ] Al Hamra House Land
+     • [ 14600 ] Camp Equipments
+     • [ 14100 ] Furniture & Fixture
+     • [ 14200 ] Machines & Equipments
+     • [ 14500 ] Machines & Equipments Lease Hold
+     • [ 14800 ] MCC Building
+     • [ 14700 ] MCC Tashliya Yard / Camp
+     • [ 14400 ] Office Equipments
+     • [ 14300 ] Vehicles
+         • [ 14317 ] Veh. Boom Truck Hino 1370
+         • [ 14311 ] Veh. DC Sailor 6202
+         • [ 14310 ] Veh. DC TATA 5361
+         • [ 14302 ] Veh. DC Toyota 7860
+         • [ 14301 ] Veh. DC Toyota 7899
+         • [ 14303 ] Veh. DC Toyota 9215
+         • [ 14314 ] Veh. Dump Truck 6201
+         • [ 14318 ] Veh. Dupm Truck Hino 1475
+         • [ 14316 ] Veh. Pajero Jeep 3379
+         • [ 14305 ] Veh. SC Toyota 7943
+         • [ 14304 ] Veh. Toyota Hiace 7874
+         • [ 14306 ] Veh. Toyota Yaris 1167
+         • [ 14308 ] Veh. Toyota Yaris 8476
+         • [ 14307 ] Veh. Toyota Yaris 8480
+         • [ 14315 ] Veh. Water Tanker 8238
+         • [ 14313 ] Veh.Boom Truck 9454
+         • [ 14312 ] Veh.TATA BUS 7556
+         • [ 14309 ] Veh.Toyota Land CruiserV8 2911
+Furniture and Equipment
+Other Current Liability
+[ 21000 ] Accrued Expenses
+     • [ 21400 ] Current Portion Long-Term Debt
+         • [ 21401 ] Provision of End of Services
+     • [ 21300 ] Insurance Payable
+     • [ 21600 ] Other Current Liabilities
+         • [ 21603 ] Auditor's Fees Payable
+         • [ 21601 ] Commission on Projects Payable
+         • [ 21602 ] Loan from Mr. Jamil Ahmad
+         • [ 21604 ] SAGIA License Fees Payable
+     • [ 21500 ] Provision for Zakat
+     • [ 21200 ] Salaries & Wages Payable
+         • [ 21202 ] Admin Salaries Payable
+         • [ 21203 ] Field Staff Salaries Payable
+         • [ 21201 ] Saudi Staff Salaries Payable
+     • [ 21100 ] Utility Bills
+         • [ 21123 ] Al Hamra House Mobily Internet
+         • [ 21120 ] AL-HAMRAH HOUSE RENT PAYABLE
+         • [ 21119 ] AL-HAMRAH HOUSE WATER BILL.
+         • [ 21117 ] ALHAMRA HOUSE ELECTRICITY BILL
+         • [ 21116 ] MCC ELECTRICITY BILL
+         • [ 21118 ] MCC GOSI PAYABLE
+         • [ 21124 ] MCC ZAIN Internet for Container
+         • [ 21104 ] MOBILY MR. JAMEEL 0540075422
+         • [ 21121 ] MR. JAMIL ZAIN SIM BILL
+         • [ 21122 ] Staff Camp Jubail Rent Payable
+         • [ 21102 ] STC Fax Line Bill
+         • [ 21111 ] STC FLEX 50 Abdul Wahab 055606
+         • [ 21109 ] STC FLEX 50 Akram Ali 05524792
+         • [ 21108 ] STC FLEX 50 Amrit 0551560367
+         • [ 21112 ] STC FLEX 50 George 0552593181
+         • [ 21114 ] STC FLEX 50 Ikram 0556124320
+         • [ 21113 ] STC FLEX 50 Irshad 0552626907
+         • [ 21105 ] STC FLEX 50 MR. JAMEEL 0554216168
+         • [ 21106 ] STC FLEX 50 MR. MATTAR 0505255
+         • [ 21107 ] STC FLEX 50 MR. Zafar 0505664512
+         • [ 21110 ] STC FLEX 50 Murad 0530057791
+         • [ 21101 ] STC Land Line Bill
+         • [ 21103 ] STC Mr. Jameel 0504901432
+         • [ 21115 ] ZAIN OFFICE INTERNET WIFI
+[ 21605 ] Advance from Customers
+Employee Reimbursements
+Excise Tax Payable
+GCC VAT Payable
+Long Term Liability
+[ 24000 ] Bank Financing
+     • [ 24100 ] Banks Financing
+         • [ 24101 ] Bank Financing (1) Boom Truck
+         • [ 24102 ] Bank Financing (2) Dump Truck
+[ 23000 ] Lease Payments
+     • [ 23300 ] Lease Payments Equipment
+         • [ 23301 ] Lease Payment Equip Folklifter
+     • [ 23100 ] Lease Payments Land
+     • [ 23200 ] Lease Payments Vehicle
+         • [ 23202 ] Lease Payments LC V8 2911
+         • [ 23201 ] Lease Payments Pickup 9215
+Equity
+Drawings
+Opening Balance Offset
+Owner's Equity
+     • [ 30100 ] Paidup Capital
+         • [ 30101 ] Capital Share Abdullah Bakar
+         • [ 30103 ] Capital Share Jameel Ahmad
+         • [ 30102 ] Capital Share Rayed Bakar
+     • [ 30200 ] Partners' Current Account
+         • [ 30201 ] Current Account Abdullah Bakar
+         • [ 30203 ] Current Account Jameel Ahmad
+         • [ 30202 ] Current Account Rayed Bakar
+     • [ 30300 ] Statutory Reserve
