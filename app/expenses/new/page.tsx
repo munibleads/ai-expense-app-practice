@@ -66,8 +66,8 @@ export default function NewExpensePage() {
     setExpenseAccountId(value);
   };
 
-  const handlePaidThroughChange = (event: SelectChangeEvent) => {
-    setPaidThroughAccountId(event.target.value as string);
+  const handlePaidThroughChange = (value: string) => {
+    setPaidThroughAccountId(value);
   };
 
   const handleSubmit = async (e: React.FormEvent) => {
