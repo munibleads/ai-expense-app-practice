@@ -62,8 +62,8 @@ export default function NewExpensePage() {
   const expenseAccounts = parseAccountData(expenseAccountData);
   const paidThroughAccounts = parseAccountData(paidThroughData);
 
-  const handleExpenseAccountChange = (event: SelectChangeEvent) => {
-    setExpenseAccountId(event.target.value as string);
+  const handleExpenseAccountChange = (value: string) => {
+    setExpenseAccountId(value);
   };
 
   const handlePaidThroughChange = (event: SelectChangeEvent) => {
