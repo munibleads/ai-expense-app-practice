@@ -15,7 +15,7 @@ export default function DashboardPage() {
           {/* Welcome Card */}
           <Grid item xs={12} md={8}>
             <WelcomeCard 
-              name="Haseeb Jamil"
+              name="Abdullah AlShammari"
               message="Track and manage your expenses efficiently with our AI-powered expense management system."
             />
           </Grid>
